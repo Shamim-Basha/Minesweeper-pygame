@@ -26,7 +26,7 @@ Immerse yourself in the captivating world of Minesweeper, a classic puzzle game 
 1. Verify the presence of Python.
 2. Attain the Pygame library via `pip install pygame`.
 3. Clone or retrieve this repository to your local machine.
-4. Navigate to the project directory and initiate the game by executing `python project.py`.
+4. Navigate to the project directory and initiate the game by executing `python minesweeper.py`.
 
 ## Controls
 
